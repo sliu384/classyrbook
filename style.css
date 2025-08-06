@@ -15,9 +15,9 @@ body {
   place-items: center;
 }
 h1 {
-  position: relative;
+  position: space-around;
   font-family: "Poppins", sans-serif;
-  font-size: 4rem;
+  font-size: 20%;
   letter-spacing: 0.3rem;
   z-index: 1;
 }
